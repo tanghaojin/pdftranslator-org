@@ -1,3 +1,6 @@
+<img width="1948" height="1061" alt="image" src="https://github.com/user-attachments/assets/763ede51-7176-40f5-a632-5c07c85c8fbe" />
+
+
 # PDFTranslator
 
 **PDFTranslator** is a free AI-powered PDF translator for translating PDF documents online while preserving the original layout as much as possible.
