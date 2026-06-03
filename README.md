@@ -19,9 +19,11 @@ The service focuses on AI PDF translation, OCR PDF translation, and format-prese
 - **Free PDF translation online**: Translate PDF documents without installing software.
 - **No sign-up required**: Start translating without creating an account.
 - **Format preservation**: Preserve the original PDF layout, tables, images, fonts, and structure where possible.
+- **Bilingual comparison preview**: Review the original text and translated text side by side before downloading the final result.
+- **Translation style options**: Choose a translation style that better fits the document type, such as academic, business, formal, or natural language.
 - **OCR PDF translation**: Translate scanned or image-based PDF documents with OCR support（Comming soon）.
 - **100+ languages**: Translate documents across major global languages and less common language pairs.
-- **Secure processing**: Files are processed over SSL and are automatically deleted from the server within 24 hours after translation.
+- **Secure processing**: Files are transferred over encrypted HTTPS/SSL connections, processed securely, and automatically deleted from the server within 24 hours after translation.
 - **20MB PDF upload limit**: Supports PDF files up to 20MB per upload.
 
 ## Common Use Cases
