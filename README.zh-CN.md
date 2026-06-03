@@ -1,3 +1,6 @@
+<img width="1952" height="1017" alt="image" src="https://github.com/user-attachments/assets/7652154a-23b2-473a-9de7-1b6e372c1985" />
+
+
 # PDFTranslator
 
 **PDFTranslator** 是一款免费的 AI PDF 翻译工具，可在线翻译 PDF 文档，并尽可能保留原始版式。
