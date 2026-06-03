@@ -1,3 +1,6 @@
+<img width="1840" height="1009" alt="image" src="https://github.com/user-attachments/assets/0edabe02-64af-4056-b875-2421120c90f4" />
+
+
 # PDFTranslator
 
 **PDFTranslator** ist ein kostenloser KI-gestützter PDF-Übersetzer, mit dem PDF-Dokumente online übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
