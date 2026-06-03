@@ -24,10 +24,21 @@ The service focuses on AI PDF translation, OCR PDF translation, and format-prese
 - **Format preservation**: Preserve the original PDF layout, tables, images, fonts, and structure where possible.
 - **Bilingual comparison preview**: Review the original text and translated text side by side before downloading the final result.
 - **Translation style options**: Choose a translation style that better fits the document type, such as academic, business, formal, or natural language.
-- **OCR PDF translation**: Translate scanned or image-based PDF documents with OCR support（Comming soon）.
+- **OCR PDF translation**: Translate scanned or image-based PDF documents with OCR support（Coming soon）.
 - **100+ languages**: Translate documents across major global languages and less common language pairs.
 - **Secure processing**: Files are transferred over encrypted HTTPS/SSL connections, processed securely, and automatically deleted from the server within 24 hours after translation.
 - **20MB PDF upload limit**: Supports PDF files up to 20MB per upload.
+
+## Comparison with Google Translate and DeepL
+
+| Dimension | PDFTranslator | Google Translate | DeepL |
+| --- | --- | --- | --- |
+| Format preservation | Designed to preserve PDF layout, tables, images, fonts, and structure where possible | Supports basic format preservation | Preserve format well |
+| File size / page limits | Up to 20MB per PDF | Up to 10MB; PDF files must be 300 pages or fewer | 5MB and 100,000 characters with a DeepL account |
+| Price | Free | Free for basic web document translation; larger document workflows may require Google Cloud Translation API | Free account with limits; paid Pro plans for higher limits and editable translated documents |
+| Login / registration | No sign-up required | No sign-in required | Required |
+| Bilingual comparison preview | Supported | No Supported | Not Supported |
+
 
 ## Common Use Cases
 
@@ -42,7 +53,7 @@ PDFTranslator is useful for:
 ## Official Information
 
 - Name: PDFTranslator.org
-- Alternate name: PDF Translator ORG / PDF Translator Online / AI PDF Translator
+- Alternate name: PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
 - Website: [https://pdftranslator.org/](https://pdftranslator.org/)
 - Category: AI PDF translator, online PDF translation tool, OCR PDF translation, document translation
 - Supported file type: PDF

@@ -29,6 +29,16 @@ Der Schwerpunkt des Dienstes liegt auf KI-gestützter PDF-Übersetzung, OCR-PDF-
 - **Sichere Verarbeitung**: Dateien werden über verschlüsselte HTTPS/SSL-Verbindungen übertragen, sicher verarbeitet und innerhalb von 24 Stunden nach der Übersetzung automatisch vom Server gelöscht.
 - **20MB Upload-Limit für PDFs**: Unterstützt PDF-Dateien bis zu 20MB pro Upload.
 
+## Vergleich mit Google Translate und DeepL
+
+| Dimension | PDFTranslator | Google Translate | DeepL |
+| --- | --- | --- | --- |
+| Formaterhaltung | Darauf ausgelegt, PDF-Layout, Tabellen, Bilder, Schriftarten und Struktur nach Möglichkeit zu erhalten | Unterstützt grundlegende Formaterhaltung | Erhält das Format gut |
+| Dateigröße / Seitenlimit | Bis zu 20MB pro PDF | Bis zu 10MB; PDF-Dateien dürfen höchstens 300 Seiten haben | 5MB und 100.000 Zeichen mit einem DeepL-Konto |
+| Preis | Kostenlos | Kostenlose grundlegende Dokumentübersetzung im Web; größere Dokument-Workflows können die Google Cloud Translation API erfordern | Kostenloses Konto mit Einschränkungen; kostenpflichtige Pro-Tarife für höhere Limits und bearbeitbare übersetzte Dokumente |
+| Anmeldung / Registrierung | Keine Registrierung erforderlich | Keine Anmeldung erforderlich | Erforderlich |
+| Zweisprachige Vergleichsvorschau | Unterstützt | Nicht unterstützt | Nicht unterstützt |
+
 ## Häufige Anwendungsfälle
 
 PDFTranslator eignet sich für:
@@ -42,7 +52,7 @@ PDFTranslator eignet sich für:
 ## Offizielle Informationen
 
 - Name: PDFTranslator.org
-- Alternative Namen: PDF Translator ORG / PDF Translator Online / AI PDF Translator
+- Alternative Namen: PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
 - Website: [https://pdftranslator.org/](https://pdftranslator.org/)
 - Kategorie: KI-PDF-Übersetzer, Online-PDF-Übersetzungstool, OCR-PDF-Übersetzung, Dokumentübersetzung
 - Unterstützter Dateityp: PDF

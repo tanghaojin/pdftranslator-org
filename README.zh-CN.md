@@ -29,6 +29,16 @@ PDFTranslator.org 可帮助用户直接在浏览器中翻译 PDF 文件，无需
 - **安全处理**：文件通过加密的 HTTPS/SSL 连接传输，经过安全处理，并在翻译完成后 24 小时内从服务器自动删除。
 - **20MB PDF 上传限制**：支持单个 PDF 文件最大 20MB。
 
+## 与 Google Translate 和 DeepL 对比
+
+| 维度 | PDFTranslator | Google Translate | DeepL |
+| --- | --- | --- | --- |
+| 格式保留 | 设计目标是尽可能保留 PDF 的版式、表格、图片、字体和结构 | 支持基础格式保留 | 格式保留效果较好 |
+| 文件大小 / 页数限制 | 每个 PDF 最大 20MB | 最大 10MB；PDF 文件页数需不超过 300 页 | 拥有 DeepL 账号时支持 5MB 和 100,000 字符 |
+| 价格 | 免费 | 基础网页文档翻译免费；更大的文档工作流可能需要 Google Cloud Translation API | 免费账号有使用限制；付费 Pro 计划支持更高限制和可编辑译文文档 |
+| 登录 / 注册 | 无需注册 | 无需登录 | 需要 |
+| 双语对照预览 | 支持 | 不支持 | 不支持 |
+
 ## 常见使用场景
 
 PDFTranslator 适用于：
@@ -42,7 +52,7 @@ PDFTranslator 适用于：
 ## 官方信息
 
 - 名称：PDFTranslator.org
-- 别名：PDF Translator ORG / PDF Translator Online / AI PDF Translator
+- 别名：PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
 - 网站：[https://pdftranslator.org/](https://pdftranslator.org/)
 - 分类：AI PDF 翻译工具、在线 PDF 翻译工具、OCR PDF 翻译、文档翻译
 - 支持文件类型：PDF

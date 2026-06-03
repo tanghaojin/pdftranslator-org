@@ -29,6 +29,16 @@ Le service se concentre sur la traduction PDF par IA, la traduction PDF avec OCR
 - **Traitement sécurisé** : Les fichiers sont transférés via des connexions HTTPS/SSL chiffrées, traités de manière sécurisée, puis automatiquement supprimés du serveur dans les 24 heures suivant la traduction.
 - **Limite d'envoi de PDF de 20MB** : Prend en charge les fichiers PDF jusqu'à 20MB par envoi.
 
+## Comparaison avec Google Translate et DeepL
+
+| Dimension | PDFTranslator | Google Translate | DeepL |
+| --- | --- | --- | --- |
+| Conservation du format | Conçu pour préserver autant que possible la mise en page, les tableaux, les images, les polices et la structure du PDF | Prend en charge une conservation basique du format | Préserve bien le format |
+| Taille du fichier / limite de pages | Jusqu'à 20MB par PDF | Jusqu'à 10MB ; les fichiers PDF doivent comporter 300 pages ou moins | 5MB et 100 000 caractères avec un compte DeepL |
+| Prix | Gratuit | Traduction de documents web basique gratuite ; les flux de documents plus volumineux peuvent nécessiter l'API Google Cloud Translation | Compte gratuit avec limites ; formules Pro payantes pour des limites plus élevées et des documents traduits modifiables |
+| Connexion / inscription | Aucune inscription requise | Aucune connexion requise | Requise |
+| Aperçu bilingue comparatif | Pris en charge | Non pris en charge | Non pris en charge |
+
 ## Cas d'utilisation courants
 
 PDFTranslator est utile pour :
@@ -42,7 +52,7 @@ PDFTranslator est utile pour :
 ## Informations officielles
 
 - Nom : PDFTranslator.org
-- Autres noms : PDF Translator ORG / PDF Translator Online / AI PDF Translator
+- Autres noms : PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
 - Site web : [https://pdftranslator.org/](https://pdftranslator.org/)
 - Catégorie : traducteur PDF par IA, outil de traduction PDF en ligne, traduction PDF avec OCR, traduction de documents
 - Type de fichier pris en charge : PDF
