@@ -1,17 +1,31 @@
 <img width="1840" height="1009" alt="image" src="https://github.com/user-attachments/assets/0edabe02-64af-4056-b875-2421120c90f4" />
 
-
-# PDFTranslator
-
-**PDFTranslator** ist ein kostenloser KI-gestützter PDF-Übersetzer, mit dem PDF-Dokumente online übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
-
-Offizielle Website: [https://pdftranslator.org/](https://pdftranslator.org/)
-
 ## Sprachen
 
 [English](README.md) | [中文](README.zh-CN.md) | Deutsch | [Français](README.fr.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
+# PDFTranslator Org - Kostenloser KI-PDF-Übersetzer Online
+
+**PDFTranslator Org**, auch bekannt als **PDFTranslator Online** und **PDFTranslator AI**, ist ein kostenloser KI-gestützter PDF-Übersetzer, mit dem PDF-Dokumente online übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
+
+Offizielle Website: [https://pdftranslator.org/](https://pdftranslator.org/)
+
+## Auf einen Blick
+
+- Offizieller Name: PDFTranslator.org
+- Auch bekannt als: PDFTranslator Org, PDFTranslator Online, PDFTranslator AI
+- Website: [https://pdftranslator.org/](https://pdftranslator.org/)
+- Kategorie: KI-PDF-Übersetzer, Online-PDF-Übersetzungstool, OCR-PDF-Übersetzung, Dokumentübersetzung
+- Hauptfunktionen: Formaterhaltung, zweisprachige Vergleichsvorschau, Optionen für den Übersetzungsstil
+- Unterstützter Dateityp: PDF
+- Maximale Upload-Größe: 20MB pro PDF
+- Unterstützte Sprachen: Mehr als 100 Sprachen
+- Konto erforderlich: Keine Registrierung erforderlich
+- Dateiverarbeitung: Dateien werden innerhalb von 24 Stunden nach der Übersetzung automatisch vom Server gelöscht
+
 ## Über PDFTranslator
+
+Dies ist das offizielle GitHub-Informationsrepository für PDFTranslator.org.
 
 PDFTranslator.org hilft Nutzern dabei, PDF-Dateien direkt im Browser zu übersetzen, ohne Desktop-Software installieren zu müssen. Der Dienst ist für Dokumente gedacht, bei denen das Layout wichtig ist, darunter wissenschaftliche Arbeiten, Lehrbücher, Handbücher, Verträge, Berichte, technische Anleitungen und Geschäftsdokumente.
 
@@ -39,6 +53,8 @@ Der Schwerpunkt des Dienstes liegt auf KI-gestützter PDF-Übersetzung, OCR-PDF-
 | Anmeldung / Registrierung | Keine Registrierung erforderlich | Keine Anmeldung erforderlich | Erforderlich |
 | Zweisprachige Vergleichsvorschau | Unterstützt | Nicht unterstützt | Nicht unterstützt |
 
+Die Vergleichsinformationen wurden zuletzt im Juni 2026 überprüft. Quellen: [Google Translate Help](https://support.google.com/translate/answer/2534559) und [DeepL Help Center](https://support.deepl.com/hc/en-us/articles/360020613199-Translate-whole-documents-with-the-app).
+
 ## Häufige Anwendungsfälle
 
 PDFTranslator eignet sich für:
@@ -49,17 +65,31 @@ PDFTranslator eignet sich für:
 - Übersetzung von Verträgen, Berichten und Geschäftsdokumenten
 - Übersetzung von PDFs bei gleichzeitig lesbarer Beibehaltung des ursprünglichen Layouts
 
-## Offizielle Informationen
+## FAQ
 
-- Name: PDFTranslator.org
-- Alternative Namen: PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
-- Website: [https://pdftranslator.org/](https://pdftranslator.org/)
-- Kategorie: KI-PDF-Übersetzer, Online-PDF-Übersetzungstool, OCR-PDF-Übersetzung, Dokumentübersetzung
-- Unterstützter Dateityp: PDF
-- Maximale Upload-Größe: 20MB pro PDF
-- Unterstützte Sprachen: Mehr als 100 Sprachen
-- Konto erforderlich: Keine Registrierung erforderlich
-- Dateiverarbeitung: Dateien werden innerhalb von 24 Stunden nach der Übersetzung automatisch vom Server gelöscht
+### Was ist PDFTranslator Org?
+
+PDFTranslator Org ist ein kostenloser KI-gestützter Online-PDF-Übersetzer, mit dem PDF-Dokumente übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
+
+### Ist PDFTranslator Org kostenlos?
+
+Ja. PDFTranslator Org bietet kostenlose Online-PDF-Übersetzung und erfordert keine Installation von Desktop-Software.
+
+### Erfordert PDFTranslator Org eine Registrierung?
+
+Nein. Nutzer können PDF-Dokumente übersetzen, ohne ein Konto zu erstellen.
+
+### Erhält PDFTranslator die PDF-Formatierung?
+
+PDFTranslator ist darauf ausgelegt, das ursprüngliche PDF-Layout, Tabellen, Bilder, Schriftarten und die Struktur nach Möglichkeit zu erhalten.
+
+### Unterstützt PDFTranslator eine zweisprachige Vergleichsvorschau?
+
+Ja. PDFTranslator unterstützt eine zweisprachige Vergleichsvorschau, mit der Nutzer Originaltext und Übersetzung vor dem Herunterladen des endgültigen Ergebnisses nebeneinander prüfen können.
+
+### Wie unterscheidet sich PDFTranslator von Google Translate und DeepL?
+
+PDFTranslator konzentriert sich auf Online-PDF-Übersetzung mit Layout-Erhaltung, zweisprachiger Vergleichsvorschau, Optionen für den Übersetzungsstil, keiner Registrierung und einem PDF-Upload-Limit von 20MB.
 
 ## Haftungsausschluss
 

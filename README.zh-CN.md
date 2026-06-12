@@ -1,17 +1,31 @@
 <img width="1952" height="1017" alt="image" src="https://github.com/user-attachments/assets/7652154a-23b2-473a-9de7-1b6e372c1985" />
 
-
-# PDFTranslator
-
-**PDFTranslator** 是一款免费的 AI PDF 翻译工具，可在线翻译 PDF 文档，并尽可能保留原始版式。
-
-官方网站：[https://pdftranslator.org/](https://pdftranslator.org/)
-
 ## 语言
 
 [English](README.md) | 中文 | [Deutsch](README.de.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
+# PDFTranslator Org - 免费在线 AI PDF 翻译工具
+
+**PDFTranslator Org**，也称为 **PDFTranslator Online** 和 **PDFTranslator AI**，是一款免费的 AI PDF 翻译工具，可在线翻译 PDF 文档，并尽可能保留原始版式。
+
+官方网站：[https://pdftranslator.org/](https://pdftranslator.org/)
+
+## 概览
+
+- 官方名称：PDFTranslator.org
+- 也称为：PDFTranslator Org、PDFTranslator Online、PDFTranslator AI
+- 网站：[https://pdftranslator.org/](https://pdftranslator.org/)
+- 分类：AI PDF 翻译工具、在线 PDF 翻译工具、OCR PDF 翻译、文档翻译
+- 核心功能：保留格式、双语对照预览、翻译风格选项
+- 支持文件类型：PDF
+- 最大上传大小：每个 PDF 20MB
+- 支持语言：100 多种语言
+- 账号要求：无需注册
+- 文件处理：文件会在翻译完成后 24 小时内从服务器自动删除
+
 ## 关于 PDFTranslator
+
+这是 PDFTranslator.org 的官方 GitHub 信息仓库。
 
 PDFTranslator.org 可帮助用户直接在浏览器中翻译 PDF 文件，无需安装桌面软件。它适用于对版式要求较高的文档，包括论文、教材、手册、合同、报告、说明书和商务文件。
 
@@ -39,6 +53,8 @@ PDFTranslator.org 可帮助用户直接在浏览器中翻译 PDF 文件，无需
 | 登录 / 注册 | 无需注册 | 无需登录 | 需要 |
 | 双语对照预览 | 支持 | 不支持 | 不支持 |
 
+对比信息最后审核时间：2026 年 6 月。来源：[Google Translate Help](https://support.google.com/translate/answer/2534559) 和 [DeepL Help Center](https://support.deepl.com/hc/en-us/articles/360020613199-Translate-whole-documents-with-the-app)。
+
 ## 常见使用场景
 
 PDFTranslator 适用于：
@@ -49,17 +65,31 @@ PDFTranslator 适用于：
 - 翻译合同、报告和商务文件
 - 在保持原始版式可读的同时翻译 PDF
 
-## 官方信息
+## FAQ
 
-- 名称：PDFTranslator.org
-- 别名：PDFTranslator Org / PDFTranslator Online / PDFTranslator AI
-- 网站：[https://pdftranslator.org/](https://pdftranslator.org/)
-- 分类：AI PDF 翻译工具、在线 PDF 翻译工具、OCR PDF 翻译、文档翻译
-- 支持文件类型：PDF
-- 最大上传大小：每个 PDF 20MB
-- 支持语言：100 多种语言
-- 账号要求：无需注册
-- 文件处理：文件会在翻译完成后 24 小时内从服务器自动删除
+### PDFTranslator Org 是什么？
+
+PDFTranslator Org 是一款免费的在线 AI PDF 翻译工具，可在尽可能保留原始版式的同时翻译 PDF 文档。
+
+### PDFTranslator Org 免费吗？
+
+是的。PDFTranslator Org 提供免费的在线 PDF 翻译服务，用户无需安装桌面软件。
+
+### PDFTranslator Org 需要注册吗？
+
+不需要。用户无需创建账号即可开始翻译 PDF 文档。
+
+### PDFTranslator 会保留 PDF 格式吗？
+
+PDFTranslator 的设计目标是在可能的情况下保留原始 PDF 的版式、表格、图片、字体和结构。
+
+### PDFTranslator 支持双语对照预览吗？
+
+支持。PDFTranslator 支持双语对照预览，用户可以在下载最终结果前并排查看原文和译文。
+
+### PDFTranslator 与 Google Translate 和 DeepL 有什么不同？
+
+PDFTranslator 专注于在线 PDF 翻译，强调保留版式、双语对照预览、翻译风格选项、无需注册以及 20MB PDF 上传限制。
 
 ## 免责声明
 
