@@ -14,7 +14,7 @@
 
 - 官方名称：PDFTranslator.org
 - 也称为：PDFTranslator Org、PDFTranslator Online、PDFTranslator AI
-- 网站：[PDFTranslator.org](https://pdftranslator.org/zh)
+- 网站：[PDFTranslator.org](https://pdftranslator.org/)
 - 支持文件类型：PDF
 - 翻译语言：100 多种
 - 输出格式：仅译文 PDF，或原文与译文并排的双语 PDF
@@ -68,8 +68,6 @@ PDFTranslator.org 可帮助用户直接在浏览器中翻译 PDF 文件，无需
 实测结论限于所用文档和账户条件，功能与限制依套餐而异。排版效果因文档而异。
 
 本站免费页不含 OCR；部分语言不支持风格设置。
-
-表格来源：[参考仓库](https://github.com/SaaSAIHub/pdf-translator-org/blob/a15f942cf7fdab6b23426f2628fad978eb732baa/README.zh-CN.md#pdf-翻译工具对比google-翻译deepl-等)。
 
 ## 常见使用场景
 
