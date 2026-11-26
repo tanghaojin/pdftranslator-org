@@ -6,91 +6,141 @@
 
 # PDFTranslator Org - Kostenloser KI-PDF-Übersetzer Online
 
-**PDFTranslator Org**, auch bekannt als **PDFTranslator Online** und **PDFTranslator AI**, ist ein kostenloser KI-gestützter PDF-Übersetzer, mit dem PDF-Dokumente online übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
+**PDFTranslator Org**, auch bekannt als **PDFTranslator Online** und **PDFTranslator AI**, übersetzt PDFs online in über 100 Sprachen und erhält dabei das ursprüngliche Layout so weit wie möglich. Gäste können PDFs ohne OCR im Rahmen eines monatlichen Kontingents kostenlos übersetzen.
 
-Offizielle Website: [https://pdftranslator.org/](https://pdftranslator.org/)
+Offizielle Website: [PDFTranslator.org](https://pdftranslator.org/de)
 
 ## Auf einen Blick
 
 - Offizieller Name: PDFTranslator.org
 - Auch bekannt als: PDFTranslator Org, PDFTranslator Online, PDFTranslator AI
-- Website: [https://pdftranslator.org/](https://pdftranslator.org/)
-- Kategorie: KI-PDF-Übersetzer, Online-PDF-Übersetzungstool, OCR-PDF-Übersetzung, Dokumentübersetzung
-- Hauptfunktionen: Formaterhaltung, zweisprachige Vergleichsvorschau, Optionen für den Übersetzungsstil
-- Unterstützter Dateityp: PDF
-- Maximale Upload-Größe: 20MB pro PDF
-- Unterstützte Sprachen: Mehr als 100 Sprachen
-- Konto erforderlich: Keine Registrierung erforderlich
-- Dateiverarbeitung: Dateien werden innerhalb von 24 Stunden nach der Übersetzung automatisch vom Server gelöscht
+- Website: [PDFTranslator.org](https://pdftranslator.org/de)
+- Unterstütztes Dateiformat: PDF
+- Übersetzungssprachen: über 100
+- Ausgabe: PDF nur mit der Übersetzung oder zweisprachiges PDF mit Original und Übersetzung nebeneinander
+- Gastzugang: PDFs ohne OCR im Rahmen des monatlichen Freikontingents; für OCR ist eine Anmeldung erforderlich
 
 ## Über PDFTranslator
 
-Dies ist das offizielle GitHub-Informationsrepository für PDFTranslator.org.
+Dies ist das offizielle GitHub-Informationsrepository von PDFTranslator.org.
 
-PDFTranslator.org hilft Nutzern dabei, PDF-Dateien direkt im Browser zu übersetzen, ohne Desktop-Software installieren zu müssen. Der Dienst ist für Dokumente gedacht, bei denen das Layout wichtig ist, darunter wissenschaftliche Arbeiten, Lehrbücher, Handbücher, Verträge, Berichte, technische Anleitungen und Geschäftsdokumente.
+Mit PDFTranslator.org lassen sich PDF-Dateien direkt im Browser übersetzen, ohne eine Desktopanwendung zu installieren. Der Dienst eignet sich für Dokumente, bei denen das Layout wichtig ist, etwa Forschungsarbeiten, Lehrbücher, Handbücher, Verträge, Berichte, Anleitungen und Geschäftsdokumente.
 
-Der Schwerpunkt des Dienstes liegt auf KI-gestützter PDF-Übersetzung, OCR-PDF-Übersetzung und formatbewahrender Dokumentübersetzung in mehr als 100 Sprachen.
+Der Schwerpunkt liegt auf KI-gestützter PDF-Übersetzung, OCR und dem Erhalt des Dokumentlayouts bei Übersetzungen in über 100 Sprachen.
 
 ## Hauptfunktionen
 
-- **Kostenlose Online-PDF-Übersetzung**: PDF-Dokumente übersetzen, ohne Software zu installieren.
-- **Keine Registrierung erforderlich**: Mit der Übersetzung beginnen, ohne ein Konto zu erstellen.
-- **Formaterhaltung**: Das ursprüngliche PDF-Layout, Tabellen, Bilder, Schriftarten und die Dokumentstruktur werden nach Möglichkeit beibehalten.
-- **Zweisprachige Vergleichsvorschau**: Originaltext und Übersetzung vor dem Herunterladen des endgültigen Ergebnisses nebeneinander prüfen.
-- **Optionen für den Übersetzungsstil**: Einen Übersetzungsstil wählen, der besser zum Dokumenttyp passt, zum Beispiel akademisch, geschäftlich, formell oder natürlich.
-- **OCR-PDF-Übersetzung**: Gescannte oder bildbasierte PDF-Dokumente mit OCR-Unterstützung übersetzen (in Kürze verfügbar).
-- **Mehr als 100 Sprachen**: Dokumente in wichtigen Weltsprachen und weniger verbreiteten Sprachpaaren übersetzen.
-- **Sichere Verarbeitung**: Dateien werden über verschlüsselte HTTPS/SSL-Verbindungen übertragen, sicher verarbeitet und innerhalb von 24 Stunden nach der Übersetzung automatisch vom Server gelöscht.
-- **20MB Upload-Limit für PDFs**: Unterstützt PDF-Dateien bis zu 20MB pro Upload.
+- **Layout erhalten**: Der Dienst erhält das ursprüngliche Layout sowie Tabellen und Bilder so weit wie möglich. Prüfen Sie komplexe Layouts, ungewöhnliche Schriftarten und gescannte Seiten nach der Übersetzung.
+- **Zwei PDF-Downloadoptionen**: Sehen Sie sich das Ergebnis in der Vorschau an und laden Sie es als PDF nur mit der Übersetzung oder als zweisprachiges PDF mit Original und Übersetzung nebeneinander herunter.
+- **Übersetzungsstile**: Wählen Sie, sofern verfügbar, zwischen Allgemein, Wissenschaft, Recht und Wirtschaft. Für manche Sprachen lässt sich kein Stil auswählen.
+- **OCR für gescannte PDFs**: Melden Sie sich an, um Scans oder bildbasierte PDFs zu übersetzen, die eine Texterkennung benötigen. Nach der Dateiprüfung können Sie den Bedarf an Credits prüfen, bevor Sie die Übersetzung bestätigen.
+- **Serverseitige Übersetzung**: Die Dateien werden per HTTPS übertragen und vom Dienst verarbeitet. Weitere Informationen zum Umgang mit Dateien finden Sie in der [Datenschutzrichtlinie](https://pdftranslator.org/de/privacy-policy).
 
-## Vergleich mit Google Translate und DeepL
+## Gratisseiten, Credits und Limits
 
-| Dimension | PDFTranslator | Google Translate | DeepL |
-| --- | --- | --- | --- |
-| Formaterhaltung | Darauf ausgelegt, PDF-Layout, Tabellen, Bilder, Schriftarten und Struktur nach Möglichkeit zu erhalten | Unterstützt grundlegende Formaterhaltung | Erhält das Format gut |
-| Dateigröße / Seitenlimit | Bis zu 20MB pro PDF | Bis zu 10MB; PDF-Dateien dürfen höchstens 300 Seiten haben | 5MB und 100.000 Zeichen mit einem DeepL-Konto |
-| Preis | Kostenlos | Kostenlose grundlegende Dokumentübersetzung im Web; größere Dokument-Workflows können die Google Cloud Translation API erfordern | Kostenloses Konto mit Einschränkungen; kostenpflichtige Pro-Tarife für höhere Limits und bearbeitbare übersetzte Dokumente |
-| Anmeldung / Registrierung | Keine Registrierung erforderlich | Keine Anmeldung erforderlich | Erforderlich |
-| Zweisprachige Vergleichsvorschau | Unterstützt | Nicht unterstützt | Nicht unterstützt |
+| Zugang | Kostenlose PDF-Seiten ohne OCR pro Kalendermonat | Limit pro PDF | Max. Aufträge in Warteschlange und Verarbeitung zusammen |
+| --- | ---: | --- | ---: |
+| Gast | 30 | 20 MiB / 200 Seiten | 2 |
+| Kostenloses Konto | 100 | 20 MiB / 200 Seiten | 2 |
+| Aktive Mitgliedschaft | 100 | 50 MiB / 800 Seiten | 5 |
 
-Die Vergleichsinformationen wurden zuletzt im Juni 2026 überprüft. Quellen: [Google Translate Help](https://support.google.com/translate/answer/2534559) und [DeepL Help Center](https://support.deepl.com/hc/en-us/articles/360020613199-Translate-whole-documents-with-the-app).
+- **PDFs ohne OCR** verbrauchen zuerst Gratisseiten. Angemeldete Nutzer zahlen für jede weitere Seite 10 Credits. Nicht genutzte Gratisseiten werden nicht in den nächsten Monat übertragen.
+- **OCR** erfordert eine Anmeldung und kostet für die gesamte PDF-Datei 20 Credits pro Seite, auch wenn nur einzelne Seiten eine Texterkennung benötigen. Gratisseiten sind dafür nicht einsetzbar.
+- **Willkommensguthaben**: Bei der ersten Registrierung gibt es 1.000 Credits. Sie verfallen am gleichen Kalendertag des Folgemonats oder am letzten Tag dieses Monats, falls es diesen Tag dort nicht gibt.
+- **Mitgliedschaftspässe**: Jeder Pass ist ein Einmalkauf. Alle Credits werden sofort gutgeschrieben; die Laufzeit von 30, 90 oder 365 Tagen beginnt mit erfolgreicher Zahlung. Während der Laufzeit werden neue Aufträge priorisiert und die Datei- und Auftragslimits steigen. Der Pass verlängert sich nicht automatisch und gewährt keine zusätzlichen Gratisseiten pro Monat. Siehe [aktuelle Angebote und Preise](https://pdftranslator.org/de/pricing).
+
+## PDF-Übersetzer im Vergleich: Google Translate, DeepL und weitere
+
+Vergleichen Sie PDFTranslator.org mit Online DocTranslator, iLovePDF und Smallpdf anhand von Layout, gescannten PDFs und zweisprachigen Downloads.
+
+| Merkmal | **PDFTranslator.org**<br>Empfohlen | [Google Translate](https://support.google.com/translate/answer/2534559?hl=en) | [DeepL](https://support.deepl.com/hc/en-us/articles/4411308018450-Translate-PDF-files) | [Online DocTranslator](https://www.onlinedoctranslator.com/en/translate-english-to-slovak_en_sk) | [iLovePDF](https://www.ilovepdf.com/blog/introducing-translate-pdf-ai-pdf-translation) | [Smallpdf](https://smallpdf.com/translate-pdf) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Zweisprachige PDF-Downloads**<br><sub>Original und Übersetzung nebeneinander</sub> | ✅ **Unterstützt**<br>Einsprachige und zweisprachige PDFs | ❌ **Nicht angeboten** | ❌ **Nicht angeboten** | ❌ **Nicht angeboten** | ❌ **Nicht angeboten** | ❌ **Nicht angeboten**<br>Gegenüberstellung nur auf der Website |
+| **Wählbare Übersetzungsstile**<br><sub>Auswahl nach Verwendungszweck</sub> | ✅ **4 Voreinstellungen**<br>Allgemein, Wissenschaft, Recht und Wirtschaft | ℹ️ **Keine Option gefunden** | ⚠️ **Tonauswahl**<br>Pro; für ausgewählte Sprachen | ℹ️ **Keine Option gefunden** | ℹ️ **Keine Option gefunden** | ℹ️ **Keine Option gefunden** |
+| **Layouterhalt**<br><sub>Layout und Bilder nach der Übersetzung</sub> | ✅ **Erhält das Layout**<br>Ursprüngliche PDF-Struktur | ⚠️ **Probleme bei komplexen Layouts** | ⚠️ **Erhält die Formatierung**<br>Kostenlose Ergebnisse mit Wasserzeichen | ⚠️ **Probleme bei komplexen Layouts** | ⚠️ **Probleme bei komplexen Layouts** | ⚠️ **Probleme bei komplexen Layouts** |
+| **OCR-Unterstützung**<br><sub>Übersetzung gescannter PDFs</sub> | ✅ **Unterstützt**<br>Anmelden und Credits verwenden | ❌ **Nicht unterstützt**<br>Text gescannter PDFs wird nicht übersetzt | ✅ **Unterstützt**<br>Ergebnis hängt von der Scanqualität ab | ⚠️ **Externe OCR nötig**<br>Zuerst in Word konvertieren | ✅ **Unterstützt**<br>Integrierte OCR | ✅ **Unterstützt**<br>Integrierte OCR |
+| **Dateilimit**<br><sub>Unterschiede zwischen kostenloser und kostenpflichtiger Nutzung</sub> | ✅ **20 MiB / 200 Seiten**<br>Mitglieder: 50 MiB / 800 Seiten | **10 MB / 300 Seiten** | **5 MB**<br>Kostenloses Konto | **Nicht bestätigt**<br>Keine Angabe auf den geprüften offiziellen Seiten | **15 MB kostenlos**<br>Premium: 200 MB | **Nicht bestätigt**<br>Keine Angabe auf den geprüften offiziellen Seiten |
+| **Kostenlose Nutzung**<br><sub>Kontingente und Abrechnung</sub> | **Monatliche Gratisseiten**<br>Gäste: 30 Seiten; Konten: 100 Seiten; bei der ersten Registrierung zusätzlich 1.000 Credits | **Kostenlos**<br>Dokumentübersetzung | **Kontingent für kostenlose Konten**<br>Im Konto nachsehen | **Kostenlos**<br>Dokumentübersetzung | **Nur ein kostenloser Test**<br>Danach kostenpflichtig; Angaben im Tool prüfen | **Begrenzt kostenlos**<br>Unbegrenzt in kostenpflichtigen Tarifen |
+| **Kontoanforderungen**<br><sub>Voraussetzungen</sub> | **Keine Registrierung**<br>Für Text-PDFs | **Kein Anmeldeschritt**<br>In der offiziellen Anleitung | **Konto erforderlich** | **Keine Registrierung** | **Vom Tool abhängig**<br>Aktuelle Voraussetzungen prüfen | **Keine Registrierung** |
+
+Laut Referenzrepository am 25. November 2026 anhand offizieller Quellen und praktischer Webtests geprüft. Die Links der Anbieter führen zu ihren offiziellen Seiten.
+
+Die Testergebnisse gelten für die verwendeten Dokumente und Kontobedingungen. Funktionen und Limits unterscheiden sich je nach Tarif; die Layoutqualität hängt vom Dokument ab.
+
+Die Gratisseiten von PDFTranslator.org decken keine OCR ab. Bei manchen Sprachen lässt sich kein Stil auswählen.
+
+Quelle der Tabelle: [Referenzrepository](https://github.com/SaaSAIHub/pdf-translator-org/blob/a15f942cf7fdab6b23426f2628fad978eb732baa/README.md#pdf-translator-comparison-google-translate-deepl--more).
 
 ## Häufige Anwendungsfälle
 
-PDFTranslator eignet sich für:
+PDFTranslator eignet sich zum Übersetzen von:
 
-- Übersetzung wissenschaftlicher Arbeiten und Forschungsdokumente
-- Übersetzung von Lehrbüchern und Lernmaterialien
-- Übersetzung technischer Handbücher und Mitarbeiterhandbücher
-- Übersetzung von Verträgen, Berichten und Geschäftsdokumenten
-- Übersetzung von PDFs bei gleichzeitig lesbarer Beibehaltung des ursprünglichen Layouts
+- wissenschaftlichen Artikeln und Forschungsdokumenten
+- Lehrbüchern und Lernmaterialien
+- technischen Anleitungen und Mitarbeiterhandbüchern
+- Verträgen, Berichten und Geschäftsdokumenten
+- PDFs, deren ursprüngliches Layout lesbar bleiben soll
+
+## Beispiele für PDF-Übersetzungen
+
+Diese Seitenpaare stammen von der Produktwebsite. Die ersten drei Beispiele zeigen Übersetzungen aus dem Englischen ins Chinesische. Das vierte zeigt eine vertikal gesetzte japanische Seite und ihre chinesische Übersetzung.
+
+### Forschungsartikel übersetzen
+
+Lesen Sie eine Zusammenfassung in einer anderen Sprache, ohne den Zusammenhang zwischen Absätzen und Schlüsselwörtern zu verlieren.
+
+<table>
+<tr><th>Englisches Original — Zusammenfassung und Schlüsselwörter</th><th>Chinesische Übersetzung — Zusammenfassung und Schlüsselwörter</th></tr>
+<tr><td width="50%"><img src="assets/research-paper-english.webp" alt="Forschungsartikel übersetzen — Englisches Original — Zusammenfassung und Schlüsselwörter" width="100%"></td><td width="50%"><img src="assets/research-paper-chinese.webp" alt="Forschungsartikel übersetzen — Chinesische Übersetzung — Zusammenfassung und Schlüsselwörter" width="100%"></td></tr>
+</table>
+
+### PDF-Handbücher und Anleitungen übersetzen
+
+Behalten Sie beim Lesen eines Handbuchs Überschriften, nummerierte Anweisungen und Listen im Zusammenhang.
+
+<table>
+<tr><th>Englisches Original — Handbuch</th><th>Chinesische Übersetzung — Handbuch</th></tr>
+<tr><td width="50%"><img src="assets/handbook-english.webp" alt="PDF-Handbücher und Anleitungen übersetzen — Englisches Original — Handbuch" width="100%"></td><td width="50%"><img src="assets/handbook-chinese.webp" alt="PDF-Handbücher und Anleitungen übersetzen — Chinesische Übersetzung — Handbuch" width="100%"></td></tr>
+</table>
+
+### PDF-Lehrbücher und Kursmaterialien übersetzen
+
+Vergleichen Sie Erläuterungen, Listen und Abbildungen auf einer übersetzten Lehrbuchseite.
+
+<table>
+<tr><th>Englisches Original — Lehrbuch</th><th>Chinesische Übersetzung — Lehrbuch</th></tr>
+<tr><td width="50%"><img src="assets/textbook-english.webp" alt="PDF-Lehrbücher und Kursmaterialien übersetzen — Englisches Original — Lehrbuch" width="100%"></td><td width="50%"><img src="assets/textbook-chinese.webp" alt="PDF-Lehrbücher und Kursmaterialien übersetzen — Chinesische Übersetzung — Lehrbuch" width="100%"></td></tr>
+</table>
+
+### Vertikal gesetzter japanischer Text
+
+Verfolgen Sie die Spalten von rechts nach links und sehen Sie nach, wo Dialoge und Satzzeichen in der Übersetzung stehen.
+
+<table>
+<tr><th>Japanisches Original</th><th>Chinesische Übersetzung</th></tr>
+<tr><td width="50%"><img src="assets/vertical-japanese.webp" alt="Vertikal gesetzter japanischer Text — Japanisches Original" width="100%"></td><td width="50%"><img src="assets/vertical-chinese.webp" alt="Vertikal gesetzter japanischer Text — Chinesische Übersetzung" width="100%"></td></tr>
+</table>
+
+Nutzen Sie die [Checkliste für Übersetzung und Layout (Englisch)](https://github.com/SaaSAIHub/pdf-translator-org/blob/a15f942cf7fdab6b23426f2628fad978eb732baa/docs/translation-review.md), um Fachbegriffe, Tabellen, Abbildungen und die Lesereihenfolge genauer zu prüfen.
 
 ## FAQ
 
-### Was ist PDFTranslator Org?
+### Kann ich ein PDF kostenlos und ohne Konto übersetzen?
 
-PDFTranslator Org ist ein kostenloser KI-gestützter Online-PDF-Übersetzer, mit dem PDF-Dokumente übersetzt werden können, während das ursprüngliche Layout so weit wie möglich erhalten bleibt.
+Ja. PDFs ohne OCR lassen sich im Rahmen des Gastkontingents und der Dateilimits kostenlos übersetzen. Melden Sie sich an, wenn ein Dokument OCR benötigt oder Sie nach Ausschöpfen des Freikontingents Credits verwenden möchten.
 
-### Ist PDFTranslator Org kostenlos?
+### Kann ich ein gescanntes PDF übersetzen?
 
-Ja. PDFTranslator Org bietet kostenlose Online-PDF-Übersetzung und erfordert keine Installation von Desktop-Software.
+Ja. Laden Sie es zur Dateiprüfung hoch. Falls OCR erforderlich ist, melden Sie sich an und bestätigen Sie vor dem Start den Bedarf an Credits. Für OCR können Sie das Willkommensguthaben verwenden.
 
-### Erfordert PDFTranslator Org eine Registrierung?
+### Sieht das übersetzte PDF genauso aus wie das Original?
 
-Nein. Nutzer können PDF-Dokumente übersetzen, ohne ein Konto zu erstellen.
+Der Dienst erhält Layout, Tabellen und Bilder so weit wie möglich. Textlänge, Schriftarten und die Komplexität des Dokuments können das Ergebnis beeinflussen. Vergleichen Sie wichtige Zahlen, Tabellen und Seitenumbrüche mit dem Original.
 
-### Erhält PDFTranslator die PDF-Formatierung?
+### Wie lange kann ich eine Übersetzung ansehen oder herunterladen?
 
-PDFTranslator ist darauf ausgelegt, das ursprüngliche PDF-Layout, Tabellen, Bilder, Schriftarten und die Struktur nach Möglichkeit zu erhalten.
-
-### Unterstützt PDFTranslator eine zweisprachige Vergleichsvorschau?
-
-Ja. PDFTranslator unterstützt eine zweisprachige Vergleichsvorschau, mit der Nutzer Originaltext und Übersetzung vor dem Herunterladen des endgültigen Ergebnisses nebeneinander prüfen können.
-
-### Wie unterscheidet sich PDFTranslator von Google Translate und DeepL?
-
-PDFTranslator konzentriert sich auf Online-PDF-Übersetzung mit Layout-Erhaltung, zweisprachiger Vergleichsvorschau, Optionen für den Übersetzungsstil, keiner Registrierung und einem PDF-Upload-Limit von 20MB.
+Aufträge bleiben nach erfolgreichem Abschluss, Fehlschlag oder Abbruch 24 Stunden lang im Verlauf sichtbar. Nach erfolgreichem Abschluss können Sie das Ergebnis 24 Stunden lang ansehen und herunterladen, auch mit einem Mitgliedschaftspass. Das genaue Ablaufdatum steht beim jeweiligen Auftrag. Der Gastverlauf wird im aktuellen Browser gespeichert; bei angemeldeten Nutzern verwaltet der Dienst den Verlauf. Nach Ende des Zugriffs können gespeicherte Kopien und notwendige Geschäftsunterlagen länger aufbewahrt werden. Weitere Informationen finden Sie in der [Datenschutzrichtlinie](https://pdftranslator.org/de/privacy-policy).
 
 ## Haftungsausschluss
 
-PDFTranslator soll PDF-Übersetzungen einfacher und zugänglicher machen. Bei rechtlichen, medizinischen, finanziellen, akademischen oder anderen Dokumenten mit hohem Risiko sollten Nutzer die Übersetzung sorgfältig prüfen, bevor sie sich darauf verlassen.
+PDFTranslator soll PDF-Übersetzungen einfacher und besser zugänglich machen. Bei rechtlichen, medizinischen, finanziellen, wissenschaftlichen oder anderen Dokumenten mit weitreichenden Folgen sollten Sie die Übersetzung sorgfältig prüfen, bevor Sie sich darauf verlassen.
