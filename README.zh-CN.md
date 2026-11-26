@@ -1,4 +1,4 @@
-<img width="1952" height="1017" alt="image" src="https://github.com/user-attachments/assets/7652154a-23b2-473a-9de7-1b6e372c1985" />
+<img width="1600" height="1017" alt="PDFTranslator.org 界面截图" src="assets/pdftranslator-screenshot.png" />
 
 ## 语言
 
